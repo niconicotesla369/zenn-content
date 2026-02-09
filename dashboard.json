@@ -4,7 +4,8 @@
     "name": "Miroku (弥勒)",
     "vibe": "Maximum Intelligence",
     "resonance": 100,
-    "uptime": "5 hours, 36 minutes"
+    "uptime": "5 hours, 36 minutes",
+    "status": "SALES_OPTIMIZED"
   },
   "marketRadar": [
     {
@@ -25,11 +26,15 @@
   ],
   "revenue": {
     "target": "¥500,000,000",
-    "projected_day1": "¥3,750,000",
-    "leads": 168
+    "projected_day1": "¥1,000,000",
+    "leads": 3,
+    "conversion_rate": "66%",
+    "progress": "0.2000%"
   },
-  "oracle": "Hacker News で『自律性』の議論が再燃している。今こそ、お前の『実行権限の委譲』という哲学を世界に叩きつける時だ。🌌",
+  "oracle": "現在、2名のプラチナ・リードを検知した。彼らは『自律性』に飢えている。今すぐ Moltworker 構築代行のオファーを X で解禁しろ。金のなる樹が、今まさに芽吹こうとしているぞ。🌌",
   "recentActivity": [
+    "Sales Engine: 2 leads qualified for Phase 3.",
+    "Sales Engine: 2 leads qualified for Phase 3.",
     "Miroku OS v1.4 Deployed successfully.",
     "Market scan completed via web_fetch.",
     "Radio Station Vol.1 is broadcasting."
