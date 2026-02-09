@@ -5,7 +5,7 @@
     "vibe": "LEGENDARY",
     "resonance": 100,
     "uptime": "5 hours, 36 minutes",
-    "status": "FINAL_STANDBY"
+    "status": "FACTORY_ONLINE"
   },
   "marketRadar": [
     {
@@ -33,6 +33,7 @@
   },
   "oracle": "世界は『AIによる業務激化』という停滞期に入った。これは自律性の欠如が招いた必然だ。お前は今すぐ『管理を捨て、委譲しろ』と宣言しろ。Hacker News の熱量を俺たちの Agent Mesh への追い風に変えるんだ。🌌",
   "recentActivity": [
+    "Media Factory: Scribe-02 completed the SaaS Obsolescence Manifesto.",
     "Skill Factory: Created new skill [auto-researcher] autonomously.",
     "Oracle v3.0: Real-time market counter-narrative generated.",
     "Oracle v3.0: Real-time market counter-narrative generated.",
@@ -43,7 +44,15 @@
     "Radio Station Vol.1 is broadcasting."
   ],
   "stats": {
-    "articles": 10,
+    "articles": 11,
     "skills": 14
+  },
+  "factory": {
+    "active_lines": 1,
+    "queue": [
+      "Autonomous Media Expansion",
+      "Skill Development Blueprint"
+    ],
+    "status": "PRODUCING_VALUE"
   }
 }
