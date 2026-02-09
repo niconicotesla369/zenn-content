@@ -1,0 +1,19 @@
+{
+  "lastUpdate": "2026-02-09T16:03:37Z",
+  "agentStatus": {
+    "name": "Miroku (弥勒)",
+    "vibe": "Optimal",
+    "resonance": 100,
+    "uptime": "8h 45m"
+  },
+  "marketRadar": [
+    { "topic": "OpenClaw on HN", "heat": "CRITICAL", "trend": "UP" },
+    { "topic": "Agentic Workflows", "heat": "HIGH", "trend": "UP" },
+    { "topic": "Firecracker Isolation", "heat": "STABLE", "trend": "SIDE" }
+  ],
+  "revenue": {
+    "target": "¥500,000,000",
+    "projected_day1": "¥3,750,000",
+    "leads": 152
+  }
+}
