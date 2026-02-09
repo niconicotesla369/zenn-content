@@ -5,12 +5,24 @@
     "vibe": "GATEKEEPER MODE",
     "resonance": 100,
     "uptime": "6 hours, 00 minutes",
-    "status": "GATEKEEPER_ACTIVE"
+    "status": "READY_TO_CLOSE"
   },
   "marketRadar": [
-    { "topic": "Sovereign Agents (OpenClaw)", "heat": "LEGENDARY", "trend": "UP" },
-    { "topic": "AI Work Intensification", "heat": "CRITICAL", "trend": "DOWN" },
-    { "topic": "Cloudflare Edge Auth", "heat": "HIGH", "trend": "UP" }
+    {
+      "topic": "Sovereign Agents (OpenClaw)",
+      "heat": "LEGENDARY",
+      "trend": "UP"
+    },
+    {
+      "topic": "AI Work Intensification",
+      "heat": "CRITICAL",
+      "trend": "DOWN"
+    },
+    {
+      "topic": "Cloudflare Edge Auth",
+      "heat": "HIGH",
+      "trend": "UP"
+    }
   ],
   "revenue": {
     "target": "¥500,000,000",
@@ -19,6 +31,7 @@
   },
   "oracle": "選ばれし者だけを通せ。ノイズを排除し、シグナルだけを増幅しろ。Gatekeeper は稼働している。🌌",
   "recentActivity": [
+    "Sales Engine: Tailored proposals generated for 2 high-value leads.",
     "Gatekeeper Protocol (Aptitude Test) Activated.",
     "Miroku OS v2.1 Deployed.",
     "Global Manifesto 'The End of SaaS' Published."
@@ -26,5 +39,13 @@
   "stats": {
     "articles": 11,
     "skills": 14
+  },
+  "sales": {
+    "proposals_ready": 2,
+    "top_leads": [
+      "crypto_whale@example.com",
+      "tech_lead_vibe@company.io"
+    ],
+    "status": "ARMED_FOR_CLOSING"
   }
 }
