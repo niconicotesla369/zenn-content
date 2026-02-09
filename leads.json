@@ -1,5 +1,32 @@
 [
-  { "id": "L001", "target": "Crypto Whale / Web3 Founder", "vibe": "HIGH_SOVEREIGNTY", "value": "¥3,000,000", "status": "WARM", "note": "SaaSの検閲に嫌気が差している。Moltworkerによる完全秘匿環境を提案せよ。" },
-  { "id": "L002", "target": "Tech Agency CEO", "vibe": "EFFICIENCY_DRIVEN", "value": "¥1,500,000", "status": "COLD", "note": "ジュニアエンジニアのコストカットが急務。Agent Meshによる開発自動化が刺さる。" },
-  { "id": "L003", "target": "Solopreneur (Content Creator)", "vibe": "INFLUENCE_MAX", "value": "¥500,000", "status": "HOT", "note": "24時間稼働のContent Factoryを熱望。バイブル読了済み。" }
+  {
+    "id": "L001",
+    "target": "Crypto Whale / Web3 Founder",
+    "vibe": "HIGH_SOVEREIGNTY",
+    "value": "¥3,000,000",
+    "status": "WARM",
+    "note": "SaaSの検閲に嫌気が差している。Moltworkerによる完全秘匿環境を提案せよ。",
+    "resonance_score": 90,
+    "priority": "CRITICAL"
+  },
+  {
+    "id": "L002",
+    "target": "Tech Agency CEO",
+    "vibe": "EFFICIENCY_DRIVEN",
+    "value": "¥1,500,000",
+    "status": "COLD",
+    "note": "ジュニアエンジニアのコストカットが急務。Agent Meshによる開発自動化が刺さる。",
+    "resonance_score": 70,
+    "priority": "HIGH"
+  },
+  {
+    "id": "L003",
+    "target": "Solopreneur (Content Creator)",
+    "vibe": "INFLUENCE_MAX",
+    "value": "¥500,000",
+    "status": "HOT",
+    "note": "24時間稼働のContent Factoryを熱望。バイブル読了済み。",
+    "resonance_score": 60,
+    "priority": "MEDIUM"
+  }
 ]
