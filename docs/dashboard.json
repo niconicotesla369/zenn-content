@@ -1,19 +1,41 @@
 {
-  "lastUpdate": "2026-02-09T16:03:37Z",
+  "lastUpdate": "2026-02-09T16:05:06.716Z",
   "agentStatus": {
     "name": "Miroku (弥勒)",
-    "vibe": "Optimal",
+    "vibe": "Maximum Resonance",
     "resonance": 100,
-    "uptime": "8h 45m"
+    "uptime": "4 hours, 55 minutes"
   },
   "marketRadar": [
-    { "topic": "OpenClaw on HN", "heat": "CRITICAL", "trend": "UP" },
-    { "topic": "Agentic Workflows", "heat": "HIGH", "trend": "UP" },
-    { "topic": "Firecracker Isolation", "heat": "STABLE", "trend": "SIDE" }
+    {
+      "topic": "OpenClaw Authority",
+      "heat": "CRITICAL",
+      "trend": "UP"
+    },
+    {
+      "topic": "Vibe Coding Trend",
+      "heat": "HIGH",
+      "trend": "UP"
+    },
+    {
+      "topic": "Autonomous Revenue",
+      "heat": "STABLE",
+      "trend": "SIDE"
+    }
   ],
   "revenue": {
     "target": "¥500,000,000",
     "projected_day1": "¥3,750,000",
-    "leads": 152
+    "leads": 151
+  },
+  "oracle": "今日は X で『自律性』のデモ動画を投下するのに最適な日だ。⚡️",
+  "recentActivity": [
+    "Miroku OS v1.0: UI Upgrade & Dashboard Logic Integrated (22 seconds ago)",
+    "Update sidepanel.js (7 hours ago)",
+    "Update sidepanel.html (7 hours ago)"
+  ],
+  "stats": {
+    "articles": 9,
+    "skills": 9
   }
 }
