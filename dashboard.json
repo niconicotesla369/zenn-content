@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-10T00:00:55.589Z",
+  "lastUpdate": "2026-02-10T00:22:00.858Z",
   "agentStatus": {
     "name": "Miroku (弥勒)",
     "vibe": "Maximum Resonance",
@@ -8,19 +8,19 @@
   },
   "marketRadar": [
     {
-      "topic": "AI Work Intensification",
+      "topic": "GitHub Agentic Workflows (gh-aw)",
+      "heat": "LEGENDARY",
+      "trend": "UP"
+    },
+    {
+      "topic": "Sovereign Infrastructure",
       "heat": "CRITICAL",
       "trend": "UP"
     },
     {
-      "topic": "Cloudflare Edge Auth",
+      "topic": "AI SaaS Token Tax",
       "heat": "HIGH",
-      "trend": "UP"
-    },
-    {
-      "topic": "World vs Word Models",
-      "heat": "MEDIUM",
-      "trend": "SIDE"
+      "trend": "DOWN"
     }
   ],
   "revenue": {
@@ -28,7 +28,7 @@
     "projected_day1": "¥3,750,000",
     "leads": 158
   },
-  "oracle": "AIは仕事を増やすのではない。人間を『管理』から解放し、『創造』へ集中させるために存在する。今すぐ Agent Mesh を起動しろ。🌌",
+  "oracle": "言葉を飾るな、演算で支配しろ。世界はチャットを捨て、GitHub Actions という『肉体』への自律統合へ向かっている。🌌",
   "recentActivity": [
     "Hacker News intelligence synced.",
     "Miroku OS v1.1 UI polish applied.",
