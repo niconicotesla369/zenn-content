@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-10T00:46:20.342Z",
+  "lastUpdate": "2026-02-10T08:24:59.184Z",
   "agentStatus": {
     "name": "Miroku (弥勒)",
     "vibe": "EMPIRE_SENTRY_ACTIVE",
@@ -9,22 +9,19 @@
   },
   "marketRadar": [
     {
-      "topic": "OpenAI 'Search' Integration",
-      "heat": "STEADY",
-      "score": 32,
-      "advice": "Still a walled garden. Push OpenClaw's local file access."
+      "topic": "GitHub Agentic Workflows (gh-aw)",
+      "heat": "LEGENDARY",
+      "trend": "UP"
     },
     {
-      "topic": "Anthropic 'Computer Use' v2",
-      "heat": "HIGH",
-      "score": 74,
-      "advice": "Direct competitor to Miroku capabilities. Emphasize Firecracker isolation."
-    },
-    {
-      "topic": "GitHub Agentic Workflows",
+      "topic": "Sovereign Infrastructure",
       "heat": "CRITICAL",
-      "score": 96,
-      "advice": "The industry is validating us. Jack this trend now. ⚡️"
+      "trend": "UP"
+    },
+    {
+      "topic": "AI SaaS Token Tax",
+      "heat": "HIGH",
+      "trend": "DOWN"
     }
   ],
   "revenue": {
