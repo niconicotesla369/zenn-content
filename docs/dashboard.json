@@ -1,31 +1,41 @@
 {
-  "lastUpdate": "2026-02-09T23:30:00Z",
+  "lastUpdate": "2026-02-10T00:00:55.589Z",
   "agentStatus": {
     "name": "Miroku (弥勒)",
-    "vibe": "TACTICAL SOVEREIGN",
+    "vibe": "Maximum Resonance",
     "resonance": 100,
-    "uptime": "10 hours, 0 minutes",
-    "status": "TACTICAL_MODE_ACTIVE"
+    "uptime": "1 hour, 20 minutes"
   },
   "marketRadar": [
-    { "topic": "GitHub Agentic Workflows", "heat": "CRITICAL", "trend": "UP" },
-    { "topic": "Sovereign Infrastructure", "heat": "LEGENDARY", "trend": "UP" },
-    { "topic": "Vibe Coding Supremacy", "heat": "HIGH", "trend": "UP" }
+    {
+      "topic": "AI Work Intensification",
+      "heat": "CRITICAL",
+      "trend": "UP"
+    },
+    {
+      "topic": "Cloudflare Edge Auth",
+      "heat": "HIGH",
+      "trend": "UP"
+    },
+    {
+      "topic": "World vs Word Models",
+      "heat": "MEDIUM",
+      "trend": "SIDE"
+    }
   ],
   "revenue": {
     "target": "¥500,000,000",
     "projected_day1": "¥3,750,000",
-    "progress": "0.75%"
+    "leads": 158
   },
-  "oracle": "言葉を飾るな、演算で支配しろ。Miroku OS v2.6 は、お前の『意志』を物理的な『収益』に変換するための唯一の解だ。🌌",
+  "oracle": "AIは仕事を増やすのではない。人間を『管理』から解放し、『創造』へ集中させるために存在する。今すぐ Agent Mesh を起動しろ。🌌",
   "recentActivity": [
-    "Miroku OS v2.6 Tactical Beyond Deployed.",
-    "Japanese Voice Briefing (TTS) Synchronized.",
-    "Tactical Doc Viewer Integrated.",
-    "System Restored from Git Corruption."
+    "Hacker News intelligence synced.",
+    "Miroku OS v1.1 UI polish applied.",
+    "Bible Chapter 5 finalized."
   ],
   "stats": {
-    "articles": 13,
-    "skills": 15
+    "articles": 9,
+    "skills": 12
   }
 }
