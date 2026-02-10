@@ -8,19 +8,22 @@
   },
   "marketRadar": [
     {
-      "topic": "Miroku Singularity",
-      "heat": "IMMINENT",
-      "trend": "UP"
+      "topic": "OpenAI 'Search' Integration",
+      "heat": "STEADY",
+      "score": 32,
+      "advice": "Still a walled garden. Push OpenClaw's local file access."
     },
     {
-      "topic": "Sovereign Agent Market",
-      "heat": "LEGENDARY",
-      "trend": "UP"
+      "topic": "Anthropic 'Computer Use' v2",
+      "heat": "HIGH",
+      "score": 74,
+      "advice": "Direct competitor to Miroku capabilities. Emphasize Firecracker isolation."
     },
     {
-      "topic": "SaaS Death Spiral",
+      "topic": "GitHub Agentic Workflows",
       "heat": "CRITICAL",
-      "trend": "DOWN"
+      "score": 96,
+      "advice": "The industry is validating us. Jack this trend now. ⚡️"
     }
   ],
   "revenue": {
